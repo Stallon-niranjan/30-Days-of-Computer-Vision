@@ -12,7 +12,7 @@ DL Framework: Tensorflow, Keras, Pytorch, fastai, OpenCV, MxNet, Caffe, chainer.
 
 ML library : scikit-learn, numpy, pandas, matplot, seaborn, scipy, etc...
 
-Special libraries : dask, numba, cupy, dlib, h5py, Pillow, PySpark,tesseract 
+Special libraries : dask, numba, cupy, dlib, h5py, Pillow, PySpark, Tesseract 
 
 Day 1 : Face Recognition 
 
