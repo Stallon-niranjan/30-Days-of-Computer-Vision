@@ -72,7 +72,6 @@ Day 28 : Neural Style Transfer
 
 Day 29 : GAN for Image Colourization
 
-Day 30 : Image to Image Transistion
-
-
+Day 30 : Image to Image Translation
+Day 31 : Synthetic Data generation Using GAN 
 
