@@ -50,31 +50,29 @@ Day 17 : Emerging Technologies in AR and Video Streaming from YONSEI University 
 
 Day 18 : Denoising AutoEncoders
 
-Day 19 : ...
+Day 19 : SSD for Object Detections
 
-Day 20 : 
+Day 20 : YOlo v2 and V3
 
-Day 21 :
+Day 21 : MobileNet
 
-Day 22 :
+Day 22 : ShuffleNet
 
-Day 23 :
+Day 23 : DCGAN
 
-Day 24 :
+Day 24 : Text to Image using Gan
 
-Day 25 :
+Day 25 : Gans for Fashion
 
-Day 26 :
+Day 26 : Face Recogntion and Landmark Alignment 
 
-Day 27 :
+Day 27 : Face 3D reconstruction
 
-Day 28 :
+Day 28 : Neural Style Transfer
 
-Day 29 :
+Day 29 : GAN for Image Colourization
 
-Day 30 :
-
-Conclussions :
+Day 30 : Image to Image Transistion
 
 
 
